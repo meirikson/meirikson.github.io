@@ -2,6 +2,6 @@
 title: "meirikson.github.io"
 ---
 
-This is a Quarto website.
+This is the start of my personal webpage.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about me click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
