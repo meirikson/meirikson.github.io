@@ -13,12 +13,17 @@ website:
         menu:
         - project1.qmd
         - project2.qmd 
+    tools:
+      - icon: github
+        href:  https://github.com/meirikson
+      - icon: linkedin
+        href: https://www.linkedin.com/in/michael-eirikson/
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    # toc: true
 
 
 
