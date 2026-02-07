@@ -1,1 +1,78 @@
 /* css styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Serif+4:wght@400;500&display=swap');
+
+:root {
+  --brand-green: #7fbfa6;
+  --brand-green-dark: #4f8f78;
+  --text-main: #1f2933;
+  --text-muted: #5f6c72;
+  --bg-main: #f7faf8;
+}
+
+body {
+  font-family: 'Source Serif 4', serif;
+  color: var(--text-main);
+  background-color: var(--bg-main);
+  line-height: 1.65;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-top: 2.5rem;
+}
+
+a {
+  color: var(--brand-green-dark);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(79, 143, 120, 0.3);
+}
+
+a:hover {
+  color: var(--brand-green);
+  border-bottom-color: var(--brand-green);
+}
+
+#TOC {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+#TOC a {
+  color: var(--text-muted);
+  border-bottom: none;
+}
+
+#TOC a:hover {
+  color: var(--brand-green-dark);
+}
+
+section {
+  padding-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+/* Subtle divider */
+hr {
+  border: none;
+  height: 1px;
+  background-color: rgba(127, 191, 166, 0.35);
+  margin: 4rem 0;
+}
+
+/* Emphasized text */
+strong {
+  font-weight: 600;
+}
+
+/* Blockquotes for project reflections */
+blockquote {
+  border-left: 3px solid var(--brand-green);
+  padding-left: 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
