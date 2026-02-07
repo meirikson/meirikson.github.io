@@ -3,3 +3,8 @@ title: "About Me"
 ---
 
 I am currently a master's student doing to Master of Data Science program at UBC.
+
+
+```{R}
+library(tidyverse)
+```
