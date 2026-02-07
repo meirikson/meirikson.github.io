@@ -3,9 +3,8 @@ title: "Michael Eirikson"
 subtitle: "Data Scientist"
 ---
 
-## About Me
-
-- Master Degree in Data Science from the University of British Columbia
+- Master Degree in Data Science from the University of British Columbia.
+- I care about robust, repeatable and statistically sound data science workflows coupled with clear and thoughful communication tailored to my audience.
 
 ## Projects
 
