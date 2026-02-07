@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "meirikson.github.io",
-    "section": "",
-    "text": "This is the start of my personal webpage.\nTo learn more about me click here"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
     "text": "I am currently a master’s student doing to Master of Data Science program at UBC."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "meirikson.github.io",
+    "section": "",
+    "text": "This is the start of my personal webpage.\nTo learn more about me click here"
   }
 ]
