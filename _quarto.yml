@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "meirikson.github.io"
+  title: "Michael Eirikson"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Projects"
+        menu:
+        - project1.qmd
+        - project2.qmd 
 
 format:
   html:

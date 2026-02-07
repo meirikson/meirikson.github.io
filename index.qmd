@@ -1,7 +1,16 @@
 ---
-title: "meirikson.github.io"
+title: "Michael Eirikson"
+subtitle: "Data Scientist"
 ---
 
-This is the start of my personal webpage.
+## About Me
 
-To learn more about me click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Master Degree in Data Science from the University of British Columbia
+
+## Projects
+
+### Alpha-go
+
+### Master of Data Science Capstone
+
+### Sports Stats Applied to Chess Pieces
