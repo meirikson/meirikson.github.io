@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "Michael Eirikson",
     "section": "",
-    "text": "Master Degree in Data Science from the University of British Columbia.\nI care about robust, repeatable and statistically sound data science workflows coupled with clear and thoughful communication tailored to my audience."
+    "text": "Under construction. Please check back later :)"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Michael Eirikson",
     "section": "Projects",
-    "text": "Projects\n\nAlpha-go\n\n\nMaster of Data Science Capstone\n\n\nSports Stats Applied to Chess Pieces"
+    "text": "Projects\n\nProject 1\n\n\nProject 2"
+  },
+  {
+    "objectID": "project1.html",
+    "href": "project1.html",
+    "title": "project 1",
+    "section": "",
+    "text": "In the process of loading my projects. Please check back later."
+  },
+  {
+    "objectID": "project2.html",
+    "href": "project2.html",
+    "title": "project 2",
+    "section": "",
+    "text": "In the process of loading my projects. Please check back later."
   }
 ]
